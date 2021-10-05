@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 33px;
+width: 100%;
+margin: 0px;
+line-height: 2;
+}
+
+#status, #number
+{
+font-size: 18px;
+}
+
+canvas{
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px peachpuff;
+    margin-top: 30px;
+}
